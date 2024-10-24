@@ -5,6 +5,7 @@ import 'package:teen_patti/core/pages.dart';
 import 'package:teen_patti/game_screen.dart';
 import 'package:teen_patti/providers/crazy_eights_game_provider.dart';
 import 'package:teen_patti/providers/thirty_one_game_provider.dart';
+import 'package:teen_patti/tic_tac_game_screen/tic_tac_view.dart';
 import 'core/routes.dart';
 
 
